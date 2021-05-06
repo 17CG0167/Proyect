@@ -126,8 +126,8 @@
                                     </div>
                                 </div>
                                 <!-- Card Body -->
-                                <div class="card-body">
-                                    <div class="chart-pie pt-4 pb-2">
+                                <div class="card-body" style="height: 485px">
+                                 <br><br>   <div class="chart-pie pt-4 pb-2">
                                         <canvas id="myPieChart"></canvas>
                                     </div>
                                     <div class="mt-4 text-center small">
