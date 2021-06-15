@@ -24,3 +24,7 @@ Route::group(['prefix'=>'inventario','as'=>'inventario.'], function(){
     });      
 });
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

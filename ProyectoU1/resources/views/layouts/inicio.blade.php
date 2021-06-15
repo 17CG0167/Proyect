@@ -32,7 +32,7 @@
                             </div>
                             <div class="card shadow mb-4">
                                 <div class="card-header py-3">
-                                    <h6 class="m-0 font-weight-bold text-primary">¿Que me hace difernete a la competencia? </h6>
+                                    <h6 class="m-0 font-weight-bold text-primary">¿Que me hace diferente a la competencia? </h6>
                                 </div>
                                 <div class="card-body">
                                     <p>El conocimiento del mercado local nos permite saber que es lo que la comunidad necesita hoy en
